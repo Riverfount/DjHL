@@ -13,9 +13,9 @@ colorama==0.4.3; sys_platform == "win32" \
 dj-database-url==0.5.0 \
     --hash=sha256:4aeaeb1f573c74835b0686a2b46b85990571159ffc21aa57ecd4d1e1cb334163 \
     --hash=sha256:851785365761ebe4994a921b433062309eb882fedd318e1b0fcecc607ed02da9
-django==3.1.1 \
-    --hash=sha256:b5fbb818e751f660fa2d576d9f40c34a4c615c8b48dd383f5216e609f383371f \
-    --hash=sha256:59c8125ca873ed3bdae9c12b146fbbd6ed8d0f743e4cf5f5817af50c51f1fc2f
+django==3.1.5 \
+    --hash=sha256:2d78425ba74c7a1a74b196058b261b9733a8570782f4e2828974777ccca7edf7 \
+    --hash=sha256:efa2ab96b33b20c2182db93147a0c3cd7769d418926f9e9f140a60dca7c64ca9
 django-filter==2.3.0 \
     --hash=sha256:11e63dd759835d9ba7a763926ffb2662cf8a6dcb4c7971a95064de34dbc7e5af \
     --hash=sha256:616848eab6fc50193a1b3730140c49b60c57a3eda1f7fc57fa8505ac156c6c75
